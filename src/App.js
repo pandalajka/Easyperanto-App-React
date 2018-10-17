@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import PageTemplate from './containers/mainpage/template';
 import { Navigation } from './containers/navigation/navigation';
 import { Lessons } from './containers/lessons/lessons';
@@ -18,7 +18,7 @@ class App extends Component {
         <div>
           <Navigation />
             <Switch>
-              <Route exact path="/" component={PageTemplate} />
+              <Route exact path="/Easyperanto-App-React/" component={PageTemplate} />
               <Route path="/vocabulary" component={Vocabulary} />
               <Route path="/notes" component={Notes} />
               <Route path="/lessons" component={Lessons} />
