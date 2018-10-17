@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+
+
+.SectionLeft {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 90px;
+    text-align: center;
+}
+
+.SectionLeft h1, p {
+    font-family: 'Lato', sans-serif;
+    font-size: 2.35rem;
+    font-weight: 300;
+}
+
+.SectionLeft h1 {
+    color: #111111;
+}
+
+.SectionLeft p {
+    font-size: 1.3rem;
+    margin-top: -10px;
+    color: #7b7e91;
+} 
+
+.SectionLeft a {
+    text-decoration: none;
+    color: #7b7e91;
+    border-bottom: 2px solid #d5d2ff;
+    box-shadow: inset 0 -4px 0 #d5d2ff;
+    color: inherit;
+    transition: background 0.1s cubic-bezier(.33,.66,.66,1);
+}
+
+.SectionRight {
+    height: 100vh;
+    background: url("../../img/undraw_404.svg") no-repeat; 
+    width: 65%;
+    background-size: contain;
+    margin-top: -80px;
+    margin-left: 60px;
+}
