@@ -1,5 +1,5 @@
 import React from 'react';
-import './PageNotFound.css';
+import './pagenotfound.css';
 import styled from 'styled-components'
 
 
@@ -16,7 +16,7 @@ return (
     <Section>
         <div className="SectionLeft">
         <h1>Ooops! Not found!</h1>
-        <p>Let's go <a href="/">home</a>.</p>
+        <p>Let's go <a href="/Easyperanto-App-React/">home</a>.</p>
         </div>
         <div className="SectionRight" />
     </Section>
