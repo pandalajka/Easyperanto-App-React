@@ -20,23 +20,23 @@ self.__precacheManifest = [
     "url": "/Easyperanto-App-React/static/js/runtime~main.f0bb831e.js"
   },
   {
-    "revision": "8aaf157cd836a3967cca",
-    "url": "/Easyperanto-App-React/static/js/main.8aaf157c.chunk.js"
+    "revision": "960e9e5fafe6af7e7745",
+    "url": "/Easyperanto-App-React/static/js/main.960e9e5f.chunk.js"
   },
   {
     "revision": "e571561953a635172dc6",
     "url": "/Easyperanto-App-React/static/js/1.e5715619.chunk.js"
   },
   {
-    "revision": "8aaf157cd836a3967cca",
-    "url": "/Easyperanto-App-React/static/css/main.bac0f3ee.chunk.css"
+    "revision": "960e9e5fafe6af7e7745",
+    "url": "/Easyperanto-App-React/static/css/main.a1568201.chunk.css"
   },
   {
     "revision": "e571561953a635172dc6",
     "url": "/Easyperanto-App-React/static/css/1.8c5ace65.chunk.css"
   },
   {
-    "revision": "feb49a1b18aaa93b8da19537d5c4d28f",
+    "revision": "83079cd774823a839a5c9845610cb058",
     "url": "/Easyperanto-App-React/index.html"
   }
 ];
