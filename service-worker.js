@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Easyperanto-App-React/precache-manifest.9d2f92d4964efed35a64fd0b50183f8c.js"
+  "/Easyperanto-App-React/precache-manifest.6ac2f5d5bcda8f85821062d0522d89fc.js"
 );
 
 workbox.clientsClaim();
