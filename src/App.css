@@ -96,7 +96,7 @@ button a {
 }
 
 button:hover {
-  background-color: #eba0a2;
+  background-color: indianred;
 }
 
 .googleplay img {
@@ -173,6 +173,19 @@ h2 {
   transition: background 0.1s cubic-bezier(.33,.66,.66,1);
   font-family: 'Roboto', sans-serif;
 }
+
+.buttontrial {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttontrial a {
+  font-size: 0.9rem;
+  padding: 20px;
+  letter-spacing: 0.5px;
+}
+
 
 /* Footer */
 
